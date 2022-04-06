@@ -2,7 +2,7 @@
 
 *The following instructions are temporary, and will be replaced once an installation script is devised.*
 
-# Installation
+## Installation
 
 * Install PyCharm Community Edition
 * Open the repository as a PyCharm project using a Python Interpreter of version 3.9.x
@@ -11,3 +11,7 @@
   * `python -m spacy download en_core_web_sm`
   * `python -m spacy download en_core_web_lg`
 * Execute the application by running `app/Main.py` from PyCharm
+
+## Attribution
+
+The icons used within *Navillation* are by Yusuke Kamiyamane. Licensed under a Creative Commons Attribution 3.0 License.
